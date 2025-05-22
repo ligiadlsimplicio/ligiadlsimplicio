@@ -5,7 +5,6 @@
 - 🔭 Trabalho em um Centro de Pesquisa
 - 🌱 Atualmente estou aprendendo coleta de dados
 - 👯 Procuro colaborar na criação e desenvolvimento de pesquisas acadêmicas
-- 📫 Contate-me no email: ligia.simplicio@unesp.br
 - 😄 Pronouns: ela/dela
 -->
 
