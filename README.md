@@ -8,9 +8,8 @@
 - 😄 Pronouns: ela/dela
 -->
 
-<div>
-  <a href="https://github.com/ligiadlsimplicio"> 
-    <img align="right" alt="GIF" src="https://i.giphy.com/sBKSknAybeD5dc7zSa.webp" />
+<div align="center">
+  <img src="https://media.tenor.com/gZno2j_0KpMAAAAi/spodermen-funny.gif" width="300" alt="Spiderman GIF">
 </div>
 
 <div style="display: inline_block"><br>
