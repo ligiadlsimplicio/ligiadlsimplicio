@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <img src="https://media.tenor.com/gZno2j_0KpMAAAAi/spodermen-funny.gif" width="300" alt="Spiderman GIF">
+  <img src="https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif" width="300" alt="Spiderman GIF">
 </div>
 
 <div style="display: inline_block"><br>
