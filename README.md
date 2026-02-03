@@ -1,6 +1,6 @@
 ## Olá, eu sou a Lígia 👋
 
-
+Estudante de Serviço Social na UNESP Franca, pesquisadora e membro do Programa de Educação Tutorial de Serviço Social.
 
 - 🔭 Trabalho em um Centro de Pesquisa
 - 🌱 Atualmente estou aprendendo coleta de dados
